@@ -1,7 +1,7 @@
 <?php
-$dsn = 'mysql:dbname=tb260040db;host=localhost';
-$user = 'tb-260040';
-$password = 'GbcXUsGse5';
+$dsn = 'mysql:dbname=データベース;host=localhost';
+$user = 'ユーザー名';
+$password = 'パスワード';
 
 // 編集フォームで表示する初期値
 $edit_id = null;
